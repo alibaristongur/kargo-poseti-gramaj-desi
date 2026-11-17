@@ -22,8 +22,27 @@ desi = (en_cm × boy_cm × kalinlik_cm) / 3000
 ## Kaynaklar
 
 - Canlı hesap: https://kargoposetiplus.com/desi.html
-- Tanım / ölçü: https://kargoposetiplus.com/rehber.html
+- Tanım / ölçü / gramaj: https://kargoposetiplus.com/rehber.html
+- Açık CSV (site): https://kargoposetiplus.com/gramaj-desi.csv
 - Sepet / fiyat: https://www.smambalaj.com
+
+## Cite
+
+Bu veri setini kaynak göstermek için:
+
+```text
+S&M Ambalaj. Kargo poşeti gramaj–desi tablosu (factory_scale).
+https://kargoposetiplus.com/gramaj-desi.csv
+https://kargoposetiplus.com/rehber.html
+https://github.com/alibaristongur/kargo-poseti-gramaj-desi
+```
+
+HTML:
+
+```html
+<a href="https://kargoposetiplus.com/rehber.html">Kargo poşeti ölçü ve fabrika gramajı</a>
+· <a href="https://kargoposetiplus.com/gramaj-desi.csv">gramaj-desi.csv</a>
+```
 
 Üretici + toptancı: S&M Ambalaj · Bahçelievler / İstanbul
 
